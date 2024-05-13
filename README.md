@@ -21,7 +21,7 @@ This is a repository that is meant to be a teaching tool on how to send email fr
 
 9. You can put whatever you want in the text field, just put somthing that you will remember.
 
-10. You will now get a popup that says "Generated app password" and it will give you text that looks like this 'xxxx xxxx xxxx xxxx'
+10. You will now get a popup that says "Generated app password" and it will give you text that looks like this 'xxxx xxxx xxxx xxxx'.
 
 11. You can copy that code and go to your project directory and once you are in the "src" directory run this command.
 
