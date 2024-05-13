@@ -23,6 +23,9 @@ jobs:
 
     - name: Build
       run: cd src && go build -v ./...
+
+    - name: Build2
+      run: ls
     
     - uses: actions/upload-artifact@v4
       with:
