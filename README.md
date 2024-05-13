@@ -1,6 +1,10 @@
 # sendEmailViaGolang
 This is a repository that is meant to be a teaching tool on how to send email from your google account using golang.
 
+# Update
+
+You can download the latest build artifact from the actions section of the repo and download the executable and use it instead of the go file. You would then use "./main <any_args>" instead of "go run main.go <any_args>".
+
 # Setup
 
 1. Login to your google account in a webbrowser.
